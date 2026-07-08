@@ -1,0 +1,13 @@
+{
+  "name": "textponte",
+  "version": "1.0.0",
+  "description": "Condivisione temporanea di testo tra computer tramite codice unico di 6 cifre",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
